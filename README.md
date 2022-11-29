@@ -7,10 +7,9 @@
 
 - You can add me at discord **akita#5805**
 
-- Sadly i live at turkey btw
+- Sadly i live at the country named **turkey** btw
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
