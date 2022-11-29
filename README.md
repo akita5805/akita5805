@@ -16,7 +16,7 @@
 - Also you can come
 - *****i think this informations is enough for you*****
 
-</p>
+</p align="center">
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akita5805&label=views&color=01090e&style=plastic" alt="akita5805" /> </p>
