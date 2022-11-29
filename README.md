@@ -9,7 +9,7 @@
 
 - You can add me at discord **akita#5805**
 
-- Sadly i live at the country named **turkey** btw
+- Sadly i live at the country named **turkey**
 
 - I'm currently using **Intellij** as ide.
 
