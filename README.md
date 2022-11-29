@@ -1,6 +1,5 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/akita5805/akita5805/main/images/akitanobg.gif" />
-<h2 align="center">Hi everyone!</h2>
 <h3 align="center">This is my github (i know you know)</h3>
 
 
