@@ -1,4 +1,4 @@
-
+<background= "https://preview.redd.it/hfs12p7u11951.png?auto=webp&s=2e472958d1482c070e7802580b0a81c84eb5d425">
 <p align="center"> <img src="https://raw.githubusercontent.com/akita5805/akita5805/main/images/akitanobg.gif" />
 <h3 align="center">Hi everyone! This is my github (i know you know)</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akita5805&show_icons=true&theme=cobalt&hide_border=true&locale=en" alt="akita5805" /></p>
