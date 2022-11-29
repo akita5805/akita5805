@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/akita5805/akita5805/main/images/akita5805page.gif" height = "50" width = "1000" />
+<p align="center"> <img src="https://raw.githubusercontent.com/akita5805/akita5805/main/images/akita5805page.gif" height = "20" width = "1000" />
 
 <p align="center"> <img src="https://raw.githubusercontent.com/akita5805/akita5805/main/images/akitanobg.gif" />
 <p align="center"> <img src="https://i.imgur.com/91NGpEy.png" />
@@ -12,4 +12,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akita5805&label=views&color=01090e&style=plastic" alt="akita5805" /> </p>
 <p align="center"> <img src="https://i.imgur.com/DJF86Se.png" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/akita5805/akita5805/main/images/akita5805page.gif" />
+<p align="center"> <img src="https://raw.githubusercontent.com/akita5805/akita5805/main/images/akita5805page.gif" height = "20" width = "1000" />
