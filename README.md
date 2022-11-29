@@ -1,6 +1,6 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/akita5805/akita5805/main/images/akitanobg.gif" />
-<h3 align="center">This is my github (i know you know)</h3>
+<h3 align="center">Hi everyone! This is my github (i know you know)</h3>
 
 
 - I’m currently learning **Java ASM, JavaAgent and lot of stuffs**
