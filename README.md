@@ -2,8 +2,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/akita5805/akita5805/main/images/akitanobg.gif" />
 <p align="center"> <img src="https://i.imgur.com/91NGpEy.png" />
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akita5805&show_icons=true&theme=cobalt&hide_border=true&locale=en" alt="akita5805" /></p>
-<h3 align="center">That language i know 😔 </h3>
-<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p align="center">
+<p align="center"> <img src="https://i.imgur.com/zfO0TUJ.png"/>
 
 <p align="center"> <img src="https://i.imgur.com/CjWRd03.png"/>
 
