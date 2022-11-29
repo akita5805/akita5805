@@ -9,6 +9,9 @@
 
 - Sadly i live at the country named **turkey** btw
 
+- I'm currently using **Intellij** as ide.
+
+- *****i think this informations is enough for you*****
 
 </p>
 
