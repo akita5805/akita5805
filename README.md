@@ -10,4 +10,4 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akita5805&label=views&color=01090e&style=plastic" alt="akita5805" /> </p>
-<p align="center"> <img src="https://preview.redd.it/hfs12p7u11951.png?auto=webp&s=2e472958d1482c070e7802580b0a81c84eb5d425" /> </p>
+<p align="center"> <img src="https://i.imgur.com/DJF86Se.png" /> </p>
