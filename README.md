@@ -5,16 +5,7 @@
 <h3 align="center">That language i know 😔 </h3>
 <p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p align="center">
 
-- I’m currently learning **Java ASM, JavaAgent and lot of stuffs**
-
-- You can add me at discord **akita#5805**
-
-- Sadly i live at the country named **turkey**
-
-- I'm currently using **Intellij** as ide.
-
-- Also you can come
-- *****i think this informations is enough for you*****
+<p align="center"> <img src="https://i.imgur.com/vnlITvF.png"/>
 
 </p align="center">
 
