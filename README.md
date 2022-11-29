@@ -3,7 +3,7 @@
 <h3 align="center">Hi everyone! This is my github (i know you know)</h3>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akita5805&show_icons=true&theme=cobalt&hide_border=true&locale=en" alt="akita5805" /></p>
 <h3 align="center">That language i know 😔 </h3>
-<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p align="center">
 
 - I’m currently learning **Java ASM, JavaAgent and lot of stuffs**
 
